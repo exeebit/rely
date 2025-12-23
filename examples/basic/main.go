@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"rely"
-	"github.com/<your-username>/rely/journal"
+	"github.com/exeebit/rely"
+	"github.com/exeebit/rely/journal"
 )
 
 func main() {
